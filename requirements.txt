@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+termcolor
+lightgbm
+tqdm
+shap
+hyperopt
+pm4py
+kmodes
+imageio
+elasticsearch
+mlflow
+flake8
+black
